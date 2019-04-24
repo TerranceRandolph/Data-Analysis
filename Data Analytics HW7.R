@@ -146,7 +146,7 @@ dev.off()
 ##########################
 
 # get Google API Key
-key <- "AIzaSyAwAsPufayNQl_iCkXlxgKXJSiMG-qdY3E"
+key <- "key"
 # must get key and register it with function
 register_google(key)
 # Create data frame with desired location
