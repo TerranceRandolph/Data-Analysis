@@ -1,6 +1,6 @@
 
 # --- HW9 --- #
-
+# professor code tweaked a little 
 
 # 1
 pkgs <- c("kernlab", "e1071", "gridExtra", "ggplot2", "caret","bindr")
